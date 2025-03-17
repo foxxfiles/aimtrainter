@@ -10,6 +10,9 @@ A customizable aim training program built with Pygame to help improve mouse prec
 - **Customizable Settings**: Adjust initial target diameter through config file
 - **Mouse Control**: Toggle mouse capture with F12 key
 
+
+![Aimtrainer](https://github.com/foxxfiles/aimtrainter/blob/main/images/ui.png)
+
 ## How It Works
 
 The aim trainer challenges you to keep your cursor within a target circle while holding down the left mouse button. As you progress through levels, the target circle becomes smaller, recoil gets stronger, and the required time on target increases.
