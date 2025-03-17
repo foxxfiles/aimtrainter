@@ -1,3 +1,9 @@
+"""
+Copyright (c) 2025 Fernando Aberto Velasquez Aguilera.
+Licensed under the MIT License with Commons Clause.
+See the LICENSE file for details.
+"""
+
 import pygame
 import os
 import random
